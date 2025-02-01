@@ -61,7 +61,7 @@ export default function NowPlayingMovies() {
         }}
         href="/popular"
       >
-        人気の映画を見る
+        人気の映画
       </Link>
       <div className="movie-container">
         <ul className="movie-list">

@@ -38,7 +38,7 @@ export default function PopularMovies() {
 
   return (
     <div>
-      <h1 className="popular-title">人気の映画を見る</h1>
+      <h1 className="popular-title">人気の映画</h1>
       <Link
         style={{
           textDecoration: "underline",

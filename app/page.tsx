@@ -44,7 +44,7 @@ export default function Home() {
           }}
           href="/popular"
         >
-          人気の映画を見る
+          人気の映画
         </Link>
         <Link
           style={{
